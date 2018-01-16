@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>absolute + calc</title>
+    <link rel="stylesheet" href="common.css">
+    <style>
+        .wp {
+            position: relative;
+        }
+        .box {
+            position: absolute;;
+            top: calc(50% - 50px);
+            left: calc(50% - 50px);
+        }
+    </style>
+</head>
+<body>
+    <div class="wp">
+        <div class="box">123123</div>
+    </div>
+</body>
+</html>
