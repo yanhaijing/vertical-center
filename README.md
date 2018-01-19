@@ -8,3 +8,4 @@
 - [table](http://yanhaijing.com/vertical-center/table.html)
 - [css-table](http://yanhaijing.com/vertical-center/css-table.html)
 - [flex](http://yanhaijing.com/vertical-center/flex.html)
+- [grid](http://yanhaijing.com/vertical-center/grid.html)
