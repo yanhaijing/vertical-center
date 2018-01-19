@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>writing-mode</title>
+    <link rel="stylesheet" href="common.css">
+    <style>
+        .wp {
+            writing-mode: vertical-lr;
+            text-align: center;
+        }
+        .wp-inner {
+            writing-mode: horizontal-tb;
+            display: inline-block;
+            text-align: left;
+            width: 100%;
+        }
+        .box {
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="wp">
+        <div class="wp-inner">
+            <div class="box">123123</div>
+        </div>
+    </div>
+</body>
+</html>

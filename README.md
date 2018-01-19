@@ -7,5 +7,6 @@
 - [absolute + transform](http://yanhaijing.com/vertical-center/absolute4.html)
 - [table](http://yanhaijing.com/vertical-center/table.html)
 - [css-table](http://yanhaijing.com/vertical-center/css-table.html)
+- [writing-mode](http://yanhaijing.com/vertical-center/writing-mode.html)
 - [flex](http://yanhaijing.com/vertical-center/flex.html)
 - [grid](http://yanhaijing.com/vertical-center/grid.html)
