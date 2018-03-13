@@ -5,9 +5,12 @@
 }
 
 .box {
+    background: green;    
+}
+
+.box.size{
     width: 100px;
     height: 100px;
-    background: green;
 }
 
 .question {
